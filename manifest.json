@@ -1,7 +1,7 @@
 {
-  "name": "Atípico Hostel",
-  "short_name": "Atípico",
-  "description": "Tarjeta digital interactiva y PWA de Atípico Hostel en Chillán.",
+  "name": "Tarjeta Digital - Mi Galería",
+  "short_name": "Mi_Galería2026'",
+  "description": "Tarjeta Digital - Mi Galería.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#2c1810",
