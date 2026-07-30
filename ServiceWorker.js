@@ -7,11 +7,11 @@ const assets = [
   './images/logo.png',
   './images/QR.png',
   './images/mapa.jpg',
-  './images/foto 1.png',
-  './images/foto 2.png',
-  './images/foto 3.png',
-  './images/foto 4.png',
-  './images/foto 5.png'
+  './images/foto 1.jpeg',
+  './images/foto 2.jpeg',
+  './images/foto 3.jpg',
+  './images/foto 4.jpg',
+  './images/foto 5.jpg'
 ];
 
 // Instalar Service Worker y guardar recursos en caché
