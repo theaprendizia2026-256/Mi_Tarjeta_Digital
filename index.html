@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Tarjeta Digital</title>
+    <title>Tarjeta Digital - Mi Galería</title>
     
     <meta name="theme-color" content="#2c1810">
     <meta name="mobile-web-app-capable" content="yes">
@@ -17,57 +17,70 @@
   <div class="card">
         <div class="header">
             <div class="logo">
-                <img src="images/logo.png" alt="Logo ARTE">
+                <img src="images/logo.png" alt="Logo Mi Galería">
             </div>
             <div class="subtitle">TARJETA DIGITAL</div>
-            <div class="subtitle">Mi Galeria</div>
+            <div class="subtitle">Mi Galería</div>
         </div>
 
         <div class="content"> 
-            
-         <div class="info-item">
+            <!-- Instagram -->
+            <div class="info-item">
                 <div class="icon"><i class="fab fa-instagram"></i></div>
                 <div class="info-text">
-                    <a href="https://www.instagram.com/atipicohostel?utm_source=qr"                                                        target="_blank">@atipicohostel</a>
-                 </div>
-             </div>
+                    <a href="https://www.instagram.com/mi_galeria2026" target="_blank">@mi_galeria2026</a>
+                </div>
+            </div>
 
+            <!-- Telegram -->
             <div class="info-item">
-                <div class="icon"><i class="fa-brands fa-telegram"></i></div>
+                <div class="icon"><i class="fab fa-telegram"></i></div>
                 <div class="info-text">
-                    <a href="https://wa.me/56982524533" target="_blank">WhatsApp Atípico Hostel</a>
+                    <a href="https://t.me/Mi_Galeria2026" target="_blank">Telegram</a>
                 </div>
             </div>
-      <div class="info-item">
-                <div class="icon"><i class="fa-regular fa-map"></i></div>
-                <div class="info-text">
-                    <a href="images/mapa.jpg" target="_blank">Mapa turistico de Chillan</a>
-      </div>
-            </div>
-            <div class="divider"></div>
 
-    
-        
-        </div>
-        <div class="qr-section">
-                <div class="qr-code">
-                    <img src="images/QR.png" alt="Código QR">
+            <!-- Sitio Web Vercel -->
+            <div class="info-item">
+                <div class="icon"><i class="fas fa-globe"></i></div>
+                <div class="info-text">
+                    <a href="https://mi-galeria2026.vercel.app/" target="_blank">mi-galeria2026.vercel.app</a>
                 </div>
             </div>
-        <div class="footer">
-              <p class="tagline">"Siente la calidez de Chillán. Tu hogar, tu descanso."</p>
+
+            <!-- Correo Outlook -->
+            <div class="info-item">
+                <div class="icon"><i class="fas fa-envelope"></i></div>
+                <div class="info-text">
+                    <a href="mailto:MiGaleria2026@outlook.es">MiGaleria2026@outlook.es</a>
+                </div>
+            </div>
+
+            <div class="divider"></div>
         </div>
+
+        <div class="qr-section">
+            <div class="qr-code">
+                <img src="images/QR.png" alt="Código QR Mi Galería">
+            </div>
+        </div>
+
+        <div class="footer">
+            <p class="tagline">"El arte no reproduce lo visible; hace visible lo invisible."</p>
+        </div>
+
         <div class="gallery-container">
             <div class="gallery-grid">
-                <img src="images/foto 1.png" alt="Hostel Atípico 1" loading="lazy">
-                <img src="images/foto 2.png" alt="Hostel Atípico 2" loading="lazy">
-                <img src="images/foto 3.png" alt="Hostel Atípico 3" loading="lazy">
-                <img src="images/foto 4.png" alt="Hostel Atípico 4" loading="lazy">
-                <img src="images/foto 5.png" alt="Hostel Atípico 5" loading="lazy">
+                <img src="images/foto 1.png" alt="Obra 1" loading="lazy">
+                <img src="images/foto 2.png" alt="Obra 2" loading="lazy">
+                <img src="images/foto 3.png" alt="Obra 3" loading="lazy">
+                <img src="images/foto 4.png" alt="Obra 4" loading="lazy">
+                <img src="images/foto 5.png" alt="Obra 5" loading="lazy">
             </div>
         </div>
   </div>
-   <script>
+
+  <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => {
                 navigator.serviceWorker.register('./ServiceWorker.js')
@@ -75,6 +88,6 @@
                     .catch(err => console.error('Error al registrar Service Worker', err));
             });
         }
-    </script>
+  </script>
 </body>
-</html>                                                                          
+</html>
