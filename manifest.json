@@ -1,0 +1,23 @@
+{
+  "name": "Atípico Hostel",
+  "short_name": "Atípico",
+  "description": "Tarjeta digital interactiva y PWA de Atípico Hostel en Chillán.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#2c1810",
+  "theme_color": "#2c1810",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
