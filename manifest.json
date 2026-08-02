@@ -1,7 +1,7 @@
 {
-  "name": "Tarjeta Digital - Mi Galería",
-  "short_name": "Mi Galería",
-  "description": "Tarjeta Digital - Mi Galería.",
+  "name": "Tarjeta Digital - Mi Tarjeta",
+  "short_name": "Mi_Tarjeta",
+  "description": "Tarjeta Digital - Mi Tarjeta.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#2c1810",
