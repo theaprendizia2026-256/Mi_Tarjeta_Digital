@@ -230,7 +230,7 @@ body {
         display: flex !important;
         visibility: visible !important;
         opacity: 1 !important;
-        padding: 8px 0 !important;
+        padding: 6px 0 !important;
     }
 
     .qr-code {
