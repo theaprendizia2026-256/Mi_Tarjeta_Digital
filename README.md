@@ -7,7 +7,7 @@ Este sistema representa una solución de software orientada a la exhibición y p
 
 ## 2. Previsualización del Sistema
 <div align="center">
-  <img src="https://res.cloudinary.com/deqk2tmer/image/upload/v1785636855/logo_nv7kbl.png" width="200" alt="Logo Mi Galería">
+  <img src="https://res.cloudinary.com/deqk2tmer/image/upload/v1786105933/Screenshot_20260807_083303_com.brave.browser_mfiakx.jpg" width="200" alt="Logo Mi Galería">
   <p><i>Interfaz ergonómica adaptativa con portafolio integrado, QR vectorial e instalación PWA nativa.</i></p>
 </div>
 
