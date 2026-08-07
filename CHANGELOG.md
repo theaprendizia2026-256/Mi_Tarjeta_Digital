@@ -1,4 +1,4 @@
-# Historial de Cambios (Changelog) - Mi Galería PWA
+# Historial de Cambios (Changelog) - Mi_Tarjeta PWA
 
 Todas las modificaciones notables de este proyecto serán documentadas en este archivo.
 
