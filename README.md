@@ -1,9 +1,9 @@
-# PROYECTO: Tarjeta Digital (PWA – Progressive Web App) · Mi_Galería
+# PROYECTO: Tarjeta Digital (PWA – Progressive Web App) · Mi_Tarjeta
 **Technical Stack:** Vanilla HTML5 / CSS3 / JavaScript (Vector SVG + CDN FontAwesome)  
 **Deployment:** [https://mi-tarjeta.vercel.app/]
 
 ## 1. Introducción
-Este sistema representa una solución de software orientada a la exhibición y presencia digital comercial para **Mi Galería**. Se trata de una **Progressive Web App (PWA)** desarrollada bajo una filosofía de arquitectura minimalista y de alta eficiencia, optimizada para ofrecer un portafolio interactivo, ergonómico y de alto rendimiento en dispositivos móviles.
+Este sistema representa una solución de software orientada a la exhibición y presencia digital comercial para **Mi Tarjeta **. Se trata de una **Progressive Web App (PWA)** desarrollada bajo una filosofía de arquitectura minimalista y de alta eficiencia, optimizada para ofrecer un portafolio interactivo, ergonómico y de alto rendimiento en dispositivos móviles.
 
 ## 2. Previsualización del Sistema
 <div align="center">
