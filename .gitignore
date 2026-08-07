@@ -1,0 +1,16 @@
+# Archivos del Sistema Operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Archivos de Registros y Logs
+*.log
+*.tmp
+
+# Archivos y Carpetas de Entornos/IDEs
+.vscode/
+.idea/
+*.swp
+
+# Caché Local
+.cache/
