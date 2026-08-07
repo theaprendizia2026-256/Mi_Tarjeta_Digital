@@ -12,7 +12,7 @@ Este sistema representa una solución de software orientada a la exhibición y p
 </div>
 
 ## 3. Problemática
-El sector del arte y la exhibición visual requiere canales de contacto inmediatos y de alta fidelidad visual sin fricción para coleccionistas y clientes. Este proyecto resuelve la necesidad de un portafolio centralizado que sea:
+La exhibición DIGITAL requiere canales de contacto inmediatos y de alta fidelidad visual sin fricción para clientes. Este proyecto resuelve la necesidad de un portafolio centralizado que sea:
 * **Accesible:** Sin intermediación de tiendas de aplicaciones (App Store / Play Store).
 * **Persistente:** Consultable con o sin conexión a internet mediante caché de App Shell.
 * **Interactiva:** Integración directa con canales de contacto (Instagram, Telegram, Correo Outlook) y exhibición de obras.
