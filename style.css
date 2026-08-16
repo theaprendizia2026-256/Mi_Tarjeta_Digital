@@ -198,7 +198,7 @@ body {
 .gallery-grid img {
     width: 100%;
     aspect-ratio: 1 / 1; /* Cuadrado perfecto estricto */
-    height: auto; /* Anula los 200px fijos */
+    height: 100px; /* Anula los 200px fijos */
     object-fit: contain; /* Garantiza obra completa dentro del cuadrado */
     background-color: #0e0e0e;
     border-radius: 8px;
