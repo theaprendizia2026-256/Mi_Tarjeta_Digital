@@ -197,14 +197,13 @@ body {
 
 .gallery-grid img {
     width: 100%;
-    aspect-ratio: 1 / 1; /* Cuadrado perfecto estricto */
-    height: 100px; /* Anula los 200px fijos */
-    object-fit: contain; /* Garantiza obra completa dentro del cuadrado */
-    background-color: #0e0e0e;
+    aspect-ratio: 1 / 1; /* Garantiza proporción cuadrada estricta */
+    height: auto;        /* Permite que el alto responda al ancho del contenedor */
+    object-fit: cover;   /* Llena la celda $1:1$ de borde a borde */
     border-radius: 8px;
     border: 1px solid rgba(245, 222, 179, 0.3);
     box-shadow: 0 4px 10px rgba(0,0,0,0.5);
-    transition: transform 0.2s ease;
+    display: block;
 }
 
 .gallery-grid img:active {
